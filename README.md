@@ -63,14 +63,16 @@ The Greatest Password Generator is a simple and user-friendly GUI application to
 ![Main Interface](screenshots/1.png)
 
 ### Language Selection
-<div align="center">
-  <img src="screenshots/2.png" width="200" height="200">
-  <img src="screenshots/3.png" width="200" height="200">
-  <img src="screenshots/4.png" width="200" height="200">
-</div>
+
+  <img src="screenshots/1.png" >
+  <br>
+  <img src="screenshots/2.png" >
+  <br>
+  <img src="screenshots/3.png">
+
 
 ### Password Generated
-![Password Generated](screenshots/5.png)
+![Password Generated](screenshots/4.png)
 
 ## Usage
 
